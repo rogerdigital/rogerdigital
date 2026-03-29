@@ -1,6 +1,6 @@
 # Roger Deng
 
-📍 Singapore ↔ Global | 🤖 Autonomous builder | 🚀 AI / Robotics / Digital Biology
+🤖 Polyagent builder | 🚀 AI / Robotics / Digital Biology | ⚡ Quant / Agents / Tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -15,10 +15,10 @@
 
 Building intelligent systems across software, autonomy, and biology.
 
-## Current Focus
+## Focus
 
-- Quantitative systems
 - Autonomous agents
+- Quantitative systems
 - Developer tools
 - Robotics-oriented workflows
 - Digital biology exploration
@@ -26,15 +26,32 @@ Building intelligent systems across software, autonomy, and biology.
 ## Projects
 
 ### QuantPilot
-Autonomous decision-making quantitative trading platform.
+Autonomous decision-making quantitative trading platform built for intelligent execution and systematic iteration.
 
 ### Publio
-Multi-platform publishing tool for modern content workflows.
+Multi-platform publishing tool designed for modern content distribution workflows.
 
-### Personal Website
+### Website
 A minimal digital home for projects, writing, and experiments.
+
+## Open Source
+
+### OpenClaw
+Active contributor to the OpenClaw open-source project, with ongoing work on developer workflows, UX details, and operational improvements.
+
+## Direction
+
+I’m interested in systems that combine intelligence, automation, and execution.
+
+That includes software products, agent workflows, quant infrastructure, and emerging intersections between computation and biology.
 
 ## Philosophy
 
 **Technology first.**  
-Build useful things. Keep shipping.
+Ship useful things.  
+Keep compounding.
+
+## Connect
+
+- GitHub: [@rogerdigital](https://github.com/rogerdigital)
+- Website: [rogerdigital.github.io](https://rogerdigital.github.io/)
