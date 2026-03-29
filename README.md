@@ -1,12 +1,7 @@
 # Roger Deng
 
-AI ↔ Robotics ↔ Digital Biology | 🤖 Autonomous builder | 🚀 Quant / Agents / Tools
+📍 Singapore ↔ Global | 🤖 Autonomous builder | 🚀 AI / Robotics / Digital Biology
 
-> Building intelligent systems at the intersection of software, autonomy, and biology.
-
-![AI](https://img.shields.io/badge/AI-5B5BD6?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-007ACC?style=for-the-badge)
-![Digital Biology](https://img.shields.io/badge/Digital%20Biology-1FA463?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -18,40 +13,28 @@ AI ↔ Robotics ↔ Digital Biology | 🤖 Autonomous builder | 🚀 Quant / Age
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-## About Me
+Building intelligent systems across software, autonomy, and biology.
 
-I build software systems around intelligence, autonomy, and real-world execution.
+## Current Focus
 
-My current focus areas include:
+- Quantitative systems
+- Autonomous agents
+- Developer tools
+- Robotics-oriented workflows
+- Digital biology exploration
 
-- autonomous agents
-- quantitative systems
-- developer tools
-- robotics-oriented workflows
-- digital biology exploration
-
-## Current Projects
+## Projects
 
 ### QuantPilot
-An autonomous decision-making quantitative trading platform built with Vite, React, TypeScript, and Node.js.
+Autonomous decision-making quantitative trading platform.
 
 ### Publio
-A multi-platform publishing tool for distributing content across modern media platforms.
+Multi-platform publishing tool for modern content workflows.
 
 ### Personal Website
-A clean digital home for projects, writing, and ongoing experiments.
-
-## Interests
-
-- AI systems
-- robotics
-- digital biology
-- agent tooling
-- product engineering
-- human-computer interfaces
+A minimal digital home for projects, writing, and experiments.
 
 ## Philosophy
 
-> Technology first.  
-> Build useful things.  
-> Keep shipping.
+**Technology first.**  
+Build useful things. Keep shipping.
