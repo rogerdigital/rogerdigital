@@ -7,11 +7,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Codex](https://img.shields.io/badge/CODEX-0F766E?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/CLAUDE-C86B2A?style=for-the-badge&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-4B5563?style=for-the-badge&logo=gnubash&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-111827?style=for-the-badge&logo=apple&logoColor=white)
+![Web](https://img.shields.io/badge/WEB-4A86E8?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 Building intelligent systems across software, autonomy, and biology.
 
