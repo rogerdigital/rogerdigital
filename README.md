@@ -2,16 +2,17 @@
 
 🤖 Polyagent builder | 🚀 AI / Robotics / Digital Biology | ⚡ Quant / Agents / Tools
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Codex](https://img.shields.io/badge/CODEX-0F766E?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/CLAUDE-C86B2A?style=for-the-badge&logo=anthropic&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-4B5563?style=for-the-badge&logo=gnubash&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-111827?style=for-the-badge&logo=apple&logoColor=white)
-![Web](https://img.shields.io/badge/WEB-4A86E8?style=for-the-badge&logo=googlechrome&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat&logo=swift&logoColor=white)
+
+![Claude](https://img.shields.io/badge/Claude-C86B2A?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-0F766E?style=flat&logo=openai&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-4B5563?style=flat&logo=gnubash&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-111827?style=flat&logo=apple&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4A86E8?style=flat&logo=googlechrome&logoColor=white)
 
 Building intelligent systems across software, autonomy, and biology.
 
