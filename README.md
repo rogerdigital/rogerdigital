@@ -10,28 +10,13 @@ Building agent systems, quantitative infrastructure, and developer tools.
 
 I build systems that connect research, tooling, and execution.
 
-## Current Projects
+## Projects
 
-### QuantPilot
-Autonomous quantitative trading platform for systematic decision-making and execution.
+- 📈 [QuantPilot](https://github.com/rogerdigital/quantpilot) - An autonomous quantitative trading platform.
 
-Built to tighten the loop between research, operational workflows, and repeatable deployment.
+- 📝 [Publio](https://github.com/rogerdigital/publio) - Write once, publish everywhere.
 
-### Publio
-Multi-platform publishing tool for modern content distribution workflows.
-
-Designed to reduce manual coordination between drafting, formatting, and distribution.
-
-## Open Source
-
-### OpenClaw
-Contributor focused on developer workflows, UX details, and operational improvements.
-
-## Focus
-
-- Agent systems that can plan, act, and iterate with minimal manual coordination
-- Quantitative infrastructure for disciplined research and execution
-- Developer tools that remove friction from real workflows
+- 🦞 [OpenClaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant.
 
 ## Connect
 
