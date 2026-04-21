@@ -1,4 +1,4 @@
-# Hey, I'm Roger Deng 👋
+# Roger Deng 👋
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -6,9 +6,9 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
 
-Building agent systems, quantitative infrastructure, and developer tools.
+Building agents, quantitative infrastructure, and developer tools.
 
-I build systems that connect research, tooling, and execution.
+Working at the intersection of research, tooling, and execution.
 
 ## Projects
 
