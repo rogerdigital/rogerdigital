@@ -38,11 +38,11 @@ Interested in AI, robotics, digital biology, and frontier technology.
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
 
 ### Tooling & Workflow
-![Claude](https://img.shields.io/badge/Claude-C86B2A?style=flat&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-0F766E?style=flat&logo=openai&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-4B5563?style=flat&logo=gnubash&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-111827?style=flat&logo=apple&logoColor=white)
-![Web](https://img.shields.io/badge/Web-4A86E8?style=flat&logo=googlechrome&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-C86B2A?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-0F766E?style=flat-square&logo=openai&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-4B5563?style=flat-square&logo=gnubash&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-111827?style=flat-square&logo=apple&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4A86E8?style=flat-square&logo=googlechrome&logoColor=white)
 
 ## 🤝 Connect
 
