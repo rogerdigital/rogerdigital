@@ -21,6 +21,7 @@ Interested in AI, robotics, digital biology, and frontier technology.
 
 ### Open Source
 - 🦞 [OpenClaw](https://github.com/openclaw/openclaw) — Open-source AI assistant project I contribute to.
+- 🤖 [OpenCode](https://github.com/anomalyco/opencode) — Open-source AI coding agent with provider-agnostic architecture, TUI focus, and LSP support out of the box.
 
 ## ✨ Highlights
 
