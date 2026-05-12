@@ -19,9 +19,13 @@ Interested in AI, robotics, digital biology, and frontier technology.
 - 📈 [QuantPilot](https://github.com/rogerdigital/quantpilot) — Autonomous quantitative trading platform focused on agent-driven decision workflows.
 - 📝 [Publio](https://github.com/rogerdigital/publio) — Multi-platform publishing tool for writing once and distributing everywhere.
 
+### Obsidian Plugins
+- 🧭 [Smart Explorer](https://github.com/rogerdigital/smart-explorer) — Alternative file explorer with custom sorting, grouping, filtering, and lightweight previews.
+- 🔍 [Vault Inspector](https://github.com/rogerdigital/vault-inspector) — Vault health checker for broken links, orphan attachments, duplicates, and frontmatter drift.
+- 📤 [Document Exporter](https://github.com/rogerdigital/document-exporter) — Export notes and folders as Markdown bundles, HTML documents, or print-ready PDFs.
+
 ### Open Source
 - 🦞 [OpenClaw](https://github.com/openclaw/openclaw) — Open-source AI assistant project I contribute to.
-- 🤖 [OpenCode](https://github.com/anomalyco/opencode) — Open-source AI coding agent with provider-agnostic architecture, TUI focus, and LSP support out of the box.
 
 ## ✨ Highlights
 
