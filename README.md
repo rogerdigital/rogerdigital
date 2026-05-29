@@ -21,7 +21,7 @@ Interested in AI, robotics, digital biology, and frontier technology.
 - 📝 [Publio](https://github.com/rogerdigital/publio) — Multi-platform publishing tool for writing once and distributing everywhere.
 
 ### Obsidian Plugin Ecosystem
-- 🧭 [Smart Explorer](https://github.com/rogerdigital/smart-explorer) — Alternative file explorer with custom sorting, grouping, filtering, and lightweight previews. [Marketplace](https://community.obsidian.md/plugins/smart-explorer)
+- 🧭 [Smart Explorer](https://github.com/rogerdigital/smart-explorer) — Alternative file explorer with manual drag-and-drop ordering, custom sorting, grouping, filtering, and lightweight previews. [Marketplace](https://community.obsidian.md/plugins/smart-explorer)
 - 🔍 [Vault Inspector](https://github.com/rogerdigital/vault-inspector) — Local-first vault maintenance scanner for broken links, orphan attachments, duplicate files, frontmatter inconsistencies, unused tags, and large files. [Marketplace](https://community.obsidian.md/plugins/vault-inspector)
 - 📤 [Document Exporter](https://github.com/rogerdigital/document-exporter) — Document export tool for notes, folders, and selected files, supporting PDF, DOCX, Markdown bundles, and HTML exports. [Marketplace](https://community.obsidian.md/plugins/document-exporter)
 
@@ -61,4 +61,3 @@ All three plugins are listed in the Obsidian Community Plugin marketplace under 
 - Website: [rogerdigital.github.io](https://rogerdigital.github.io/)
 - X: [@rogerdigit](https://x.com/rogerdigit)
 - Email: [rogerdigit@gmail.com](mailto:rogerdigit@gmail.com)
-
