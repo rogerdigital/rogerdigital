@@ -59,5 +59,6 @@ All three plugins are listed in the Obsidian Community Plugin marketplace under 
 
 - GitHub: [@rogerdigital](https://github.com/rogerdigital)
 - Website: [rogerdigital.github.io](https://rogerdigital.github.io/)
-
+- X: [@rogerdigit](https://x.com/rogerdigit)
+- Email: [rogerdigit@gmail.com](mailto:rogerdigit@gmail.com)
 
