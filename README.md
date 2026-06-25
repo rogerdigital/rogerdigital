@@ -17,12 +17,14 @@ Interested in AI, robotics, digital biology, and frontier technology.
 ## 🚀 Projects
 
 ### Personal Projects
-- 📈 [QuantPilot](https://github.com/rogerdigital/quantpilot) — Autonomous quantitative trading platform focused on agent-driven decision workflows.
+- 📈 [QuantPilot](https://github.com/rogerdigital/quantpilot) — Local-first quantitative research and execution console for strategy review, market context, backtesting, and simulated/paper/live execution with risk controls.
 - 📝 [Publio](https://github.com/rogerdigital/publio) — Multi-platform publishing tool for writing once and distributing everywhere.
+- 📄 [repo-brief](https://github.com/rogerdigital/repo-brief) — Generates an AI-ready brief for any codebase by scanning the repo, detecting stack and common commands, and writing lightweight context files (`AGENTS.md`, `repo-map.md`, `commands.md`, `risk-zones.md`) plus a fix mode, GitHub Action, and MCP server.
+- 🧠 [roger-skills](https://github.com/rogerdigital/roger-skills) — Curated collection of reusable skills for AI coding agents, covering commit, debug, PR review, security review, refactor, test generation, and postmortem workflows via slash commands.
 
 ### Obsidian Plugin Ecosystem
-- 🧭 [Smart Explorer](https://github.com/rogerdigital/smart-explorer) — Alternative file explorer with manual drag-and-drop ordering, custom sorting, grouping, filtering, and lightweight previews. [Marketplace](https://community.obsidian.md/plugins/smart-explorer)
-- 🔍 [Vault Inspector](https://github.com/rogerdigital/vault-inspector) — Local-first vault maintenance scanner for broken links, orphan attachments, duplicate files, frontmatter inconsistencies, unused tags, and large files. [Marketplace](https://community.obsidian.md/plugins/vault-inspector)
+- 🧭 [Smart Explorer](https://github.com/rogerdigital/smart-explorer) — Tree-first side-pane explorer for browsing, filtering, and manually sorting Obsidian files, built for large vaults where the default file tree falls short. [Marketplace](https://community.obsidian.md/plugins/smart-explorer)
+- 🔍 [Vault Inspector](https://github.com/rogerdigital/vault-inspector) — Local-first vault maintenance scanner for broken links, orphan attachments, duplicate files, empty notes, and large files, with JSON/Markdown output for automation. [Marketplace](https://community.obsidian.md/plugins/vault-inspector)
 - 📤 [Document Exporter](https://github.com/rogerdigital/document-exporter) — Document export tool for notes, folders, and selected files, supporting PDF, DOCX, Markdown bundles, and HTML exports. [Marketplace](https://community.obsidian.md/plugins/document-exporter)
 
 All three plugins are listed in the Obsidian Community Plugin marketplace under `rogerdigital`.
@@ -36,6 +38,7 @@ All three plugins are listed in the Obsidian Community Plugin marketplace under 
 - Contributed merged PRs to OpenClaw
 - Built and published 3 open-source Obsidian community plugins covering vault browsing, maintenance scanning, and document export
 - Contributed merged PRs to cc-switch improving skill-sync data safety and sub-cent pricing precision
+- Building AI-native developer tools: a codebase-briefing CLI and a reusable agent-skills collection
 - Building products across iOS, web, and AI-native workflows
 - Transitioning from iOS engineering into AI-native engineering
 
