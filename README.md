@@ -22,6 +22,7 @@ Interested in AI, robotics, digital biology, and frontier technology.
 - 📄 [repo-brief](https://github.com/rogerdigital/repo-brief) — Generates an AI-ready brief for any codebase by scanning the repo, detecting stack and common commands, and writing lightweight context files (`AGENTS.md`, `repo-map.md`, `commands.md`, `risk-zones.md`) plus a fix mode, GitHub Action, and MCP server.
 - 🧠 [roger-skills](https://github.com/rogerdigital/roger-skills) — Curated collection of reusable skills for AI coding agents, covering commit, debug, PR review, security review, refactor, test generation, and postmortem workflows via slash commands.
 - 🔎 [dsh-searxng](https://github.com/rogerdigital/dsh-searxng) — SearXNG-backed search provider plugin for DeepSeek Harness (dsh), giving agents free, self-hosted, key-less `web_search` through the web capability seam instead of paid search APIs.
+- 🛡️ [dsh-vet](https://github.com/rogerdigital/dsh-vet) — Security vetting for DeepSeek Harness (dsh) plugins: permission and supply-chain audits before install, graded via the open `dsh-vet/v1` report standard.
 
 ### Obsidian Plugin Ecosystem
 - 🧭 [Smart Explorer](https://github.com/rogerdigital/smart-explorer) — Tree-first side-pane explorer for browsing, filtering, and manually sorting Obsidian files, built for large vaults where the default file tree falls short. [Marketplace](https://community.obsidian.md/plugins/smart-explorer)
